@@ -1,0 +1,1 @@
+write_project_tcl -target_proj_dir "./../project" ./create_project.tcl
