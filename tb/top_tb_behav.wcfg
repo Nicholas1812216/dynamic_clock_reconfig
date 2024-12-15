@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="axi_vip_pkg" />
+            <top_module name="clock_bd_clk_wiz_0_0_family_support" />
+            <top_module name="clock_bd_clk_wiz_0_0_ipif_pkg" />
+            <top_module name="clock_bd_clk_wiz_0_0_proc_common_pkg" />
+            <top_module name="glbl" />
+            <top_module name="std" />
+            <top_module name="top_tb" />
+            <top_module name="xil_common_vip_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="11.000001 us"></ZoomEndTime>
+      <Cursor1Time time="10.884000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="112"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject type="logic" fp_name="/top_tb/clk125">
+      <obj_property name="ElementShortName">clk125</obj_property>
+      <obj_property name="ObjectShortName">clk125</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_tb/led">
+      <obj_property name="ElementShortName">led</obj_property>
+      <obj_property name="ObjectShortName">led</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_tb/dut/clock_bd_i/locked_0">
+      <obj_property name="ElementShortName">locked_0</obj_property>
+      <obj_property name="ObjectShortName">locked_0</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_tb/dut/clk100">
+      <obj_property name="ElementShortName">clk100</obj_property>
+      <obj_property name="ObjectShortName">clk100</obj_property>
+   </wvobject>
+</wave_config>
